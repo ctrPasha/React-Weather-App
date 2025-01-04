@@ -1,7 +1,6 @@
 import "./App.css";
 import SearchCities from "./components/Search Cities/SearchCities";
 import CurrentWeather from "./components/Current Weather/CurrentWeather";
-import Forecast from "./components/Forecast/Forecast";
 import { useEffect, useState } from "react";
 import axios from "axios";
 
